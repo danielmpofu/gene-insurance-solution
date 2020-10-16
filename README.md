@@ -1,4 +1,4 @@
-# Sapphire
+# Gene Insure Practical Interview Solution for Daniel T Mpofu
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
